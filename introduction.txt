@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+Hello! My name is Kekeli Evanam, and I am currently learning how to use GitHub to manage and track my projects. 
+I am enthusiastic about technology and eager to improve my skills in version control and collaborative coding.
+In addition to exploring GitHub, I enjoy solving programming challenges, learning new software tools, and building small projects to apply what I learn. 
+This repository marks the beginning of my journey in mastering GitHub and understanding how it supports project development.
