@@ -1,1 +1,2 @@
+What I have learned from this course
 In this course, I have learned how to use Git and GitHub to manage and track changes in my projects. I now understand the difference between committing changes locally and pushing them to a remote repository. I have also learned how to create branches, make pull requests, and collaborate effectively using version control. This knowledge has made it easier for me to organize my work and contribute to projects in a structured way.
